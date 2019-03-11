@@ -14,13 +14,12 @@ Final Project
 
 source: [Open Data BR - about](https://data.brla.gov/about)
 
-The concept of open data is quite simple – to “open up” access to public
-information of all types, thereby letting the public consume and
-interact with data in a variety of ways. This data may be used to
-facilitate decision making; encourage innovation through the development
-of tools or applications to further support public data consumption;
-hold government departments and agencies accountable and promote
-transparency; and much more.
+The concept of open data is to “open up” access to information of all
+types, thereby letting the public consume and interact with data in a
+variety of ways. This data may be used to facilitate decision making;
+encourage innovation through the development of tools or applications to
+further support public data consumption; hold government departments and
+agencies accountable and promote transparency; and much more.
 
 Open Data BR is an initiative that exists as part of a broader
 commitment to the residents of Baton Rouge focused on creating a more
@@ -193,7 +192,7 @@ the project. Sharing your code is a good way to receive feedback on it.
 
   - Introduce the project using a README file containting the research
     question and a 1-2 paragraph description of what you did. Add images
-    if you think they help clarifying.
+    if you think they help clarify the objective of your project.
 
   - Make sure that the code is reproducible - e.g., use the `here`
     package for filepaths, and restart your R session to male sure there
